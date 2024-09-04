@@ -44,9 +44,3 @@ fn_out = ephysStimFinder(fpath, varargin)
 ```Matlab
 outvec = movprctile(input, window, percentile)
 ```
-
-
-#### 
-```Matlab
-
-```
